@@ -1,5 +1,6 @@
-# Welcome to My GitHub Page! 👋
-
+---
+layout: home
+---
 Hi, I'm Sreehari, and this is my personal site built using **GitHub Pages** and **Jekyll**.
 
 - 💻 I love coding and building projects
