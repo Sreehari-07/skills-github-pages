@@ -1,4 +1,3 @@
-# Welcome to My GitHub Page! 👋
 
 Hi, I'm Sreehari, and this is my personal site built using **GitHub Pages** and **Jekyll**.
 
